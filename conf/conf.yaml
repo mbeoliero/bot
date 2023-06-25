@@ -1,0 +1,10 @@
+account:
+  uid: 1
+  password: 21
+
+gpt:
+  api_key: sadadad
+
+white_list:
+  group_list: [1,2]
+  user_list: [2,2]
